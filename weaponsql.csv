@@ -1,0 +1,36 @@
+ID,Name,Type,Ammo,"Body damage","Head damage","Leg damage","Mag size",RPM,DPS,TTK,"Projectile speed","Fire modes"
+1,"HAVOC Rifle","Assault rifle",Energy,18,32,14,24,672,202,0.98s,30500,Auto
+2,"VK-47 Flatline","Assault rifle",Heavy,19,33,14,20,600,190,1s,24000,"Auto
+ Single"
+3,"Hemlok Burst AR","Assault rifle",Heavy,20,35,15,18,"441  384","147  128","1.22s  1.41s",27500,"Burst (3)
+ Single"
+4,"R-301 Carbine","Assault rifle",Light,14,25,11,18,810,189,1.04s,29000,"Auto
+ Single"
+5,"Alternator SMG",SMG,Light,"16  22","24  34","13  18",27,600,"160  184",1.6s,19500,Auto
+6,"Prowler Burst PDW",SMG,Heavy,14,21,11,20,697,163,1.21s,18000,"Burst (5)"
+7,"R-99 SMG",SMG,Light,11,17,9,20,1080,198,0.83s,21000,Auto
+8,"Volt SMG",SMG,Energy,15,23,12,19,720,180,1.08s,23500,Auto
+9,"Devotion LMG",LMG,Energy,16,28,14,36,300-900,80-240,2.4-0.8s,33500,Auto
+10,"L-STAR EMG",LMG,Energy,18,32,15,100,600,180,1.1s,22000,Auto
+11,"M600 Spitfire",LMG,Heavy,19,33,16,55,540,171,1.11s,27500,Auto
+12,Rampage,LMG,Heavy,28,42,24,28,"300  390","140  182","1.4s  1.08s",26500,Auto
+13,"G7 Scout","Marksman weapon",Light,34,60,26,10,240,136,1.25s,30000,Single
+14,"Triple Take","Marksman weapon",Energy,69(23*3),138(46*3),63(21*3),9,78,90,1.54s,32000,"Single
+ Single"
+15,"30-30 Repeater","Marksman weapon",Heavy,42-57,74-100,36-48,6,139,97,1.73s,29000,Single
+16,"Bocek Compound Bow","Marksman weapon",Arrows,25-60,31-105,20-54,100,180-107,75-107,2.3-1.68s,28000,Single
+17,"Charge Rifle","Sniper rifle",Sniper,"90(3*15 + 45)","116(4*15 + 56)","90(3*15 + 45)",8,26,39,4.62s,99999,Single
+18,"Longbow DMR","Sniper rifle",Sniper,60,129,48,6,78,78,2.31s,30500,Single
+19,"Kraber .50-Cal Sniper","Sniper rifle",Sniper,145,435,116,4,25,60,2.4s,29500,Single
+20,Sentinel,"Sniper rifle",Sniper,"70  88","140  176","63  79",4,31,"36  46",3.87s,31000,Single
+21,"EVA-8 Auto",Shotgun,Shotgun,63(7*9),99(11*9),63(7*9),8,126,132,1.43s,16000,Auto
+22,"Mastiff Shotgun",Shotgun,Shotgun,88(11*8),112(14*8),88(11*8),6,66,97,1.82s,16000,Single
+23,"Mozambique Shotgun",Shotgun,Shotgun,45(15*3),69(23*3),42(14*3),6,132,99,1.82s,10000,Auto
+24,Peacekeeper,Shotgun,Shotgun,"99
+(9*11)","121
+(11*11)","77
+(7*11)",5,44,73,2.73s,16000,"Single
+ Single"
+25,"RE-45 Auto",Pistol,Light,12,18,11,16,780,156,1.23s,19500,Auto
+26,P2020,Pistol,Light,18,27,16,14,420,126,1.57s,18500,Single
+27,Wingman,Pistol,Heavy,45,97,41,6,156,117,1.54s,18000,Single
