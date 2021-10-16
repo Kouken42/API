@@ -1,0 +1,17 @@
+{%extends "base.html"%}
+{%block title%}Weapons{%endblock%}
+{%block content%}<h1>Weapons</h1>{%endblock%}
+{%block descript%}<table className="padding-table-columns">
+    <tr>
+        {% for el in col%} 
+        <th>{{el}}</th> 
+        {% endfor %}  
+    </tr>
+    {%for ele in p%}
+    <tr>
+        {%for cell in ele%}
+        <td>{{cell}}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}       
+</table>{%endblock%}

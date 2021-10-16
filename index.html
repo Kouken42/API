@@ -1,0 +1,9 @@
+{%extends "base.html"%}
+{%block title%}Home Page{%endblock%} 
+{%block content%}<h1>Welcome to Apex Legends Weapon Index</h1>{%endblock%}
+{%block descript%}<nav class="navbar navbar-light bg-light">
+    <form class="form-inline" action="/weapons/search" method="POST">
+      <input class="form-control mr-sm-2" type="search" placeholder="Weapon's Name" name="wname">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </nav>{%endblock%}
